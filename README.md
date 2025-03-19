@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xiaochen-coputer
-- 👀 I’m interested in .
-- 🌱 I’m currently learning 
+- 👀 I’m interested in pc
+
 
 
 
